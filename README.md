@@ -15,11 +15,11 @@ Toda la planificación, costes y diseño del sistema están detallados en los do
 * 📊 **[Presupuesto del Sistema](docs/Presupuesto.pdf)**: Estimación de costes de personal, ejecución y análisis comparativo de despliegue (In-house vs. Cloud Computing).
 * 📐 **[Diseño Arquitectónico](docs/Arquitectura.pdf)**: Modelado del sistema siguiendo las Vistas 4+1 y Registro de Decisiones de Arquitectura (ADRs).
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 * **Backend:** Java
 * **Despliegue y Cloud:** Google App Engine & Cloud SQL (PostgreSQL)
 * **Fuentes de Datos:** The Odds API, API-Football, Transfermarkt (Scraping)
 
-## 👥 Equipo de Desarrollo
+## Equipo de Desarrollo
 * Iván Martín Alonso
 * David Pérez Capilla
