@@ -11,7 +11,7 @@ Este repositorio contiene el proyecto desarrollado para la asignatura **Ingenier
 
 Toda la planificación, costes y diseño del sistema están detallados en los documentos oficiales adjuntos en este repositorio:
 
-* 📄 **[Propuesta de Proyecto](docs/BetMetrixPropuesta.pdfdocs/BetMetrixPropuesta.pdf)**: Definición del ámbito, objetivos y fuentes de datos seleccionadas (APIs y Web Scraping).
+* 📄 **[Propuesta de Proyecto](docs/BetMetrixPropuesta.pdf)**: Definición del ámbito, objetivos y fuentes de datos seleccionadas (APIs y Web Scraping).
 * 📊 **[Presupuesto del Sistema](docs/Presupuesto.pdf)**: Estimación de costes de personal, ejecución y análisis comparativo de despliegue (In-house vs. Cloud Computing).
 * 📐 **[Diseño Arquitectónico](docs/Arquitectura.pdf)**: Modelado del sistema siguiendo las Vistas 4+1 y Registro de Decisiones de Arquitectura (ADRs).
 
