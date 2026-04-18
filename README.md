@@ -11,7 +11,7 @@ Este repositorio contiene el proyecto desarrollado para la asignatura **Ingenier
 
 Toda la planificación, costes y diseño del sistema están detallados en los documentos oficiales adjuntos en este repositorio:
 
-* 📄 **[Propuesta de Proyecto](ruta/a/tu/propuesta.pdf)**: Definición del ámbito, objetivos y fuentes de datos seleccionadas (APIs y Web Scraping).
+* 📄 **[Propuesta de Proyecto]((https://github.com/davrap20c/BetMetrix/blob/main/Proyecto%20ISI%20Practicas-1.pdf))**: Definición del ámbito, objetivos y fuentes de datos seleccionadas (APIs y Web Scraping).
 * 📊 **[Presupuesto del Sistema](ruta/a/tu/presupuesto.pdf)**: Estimación de costes de personal, ejecución y análisis comparativo de despliegue (In-house vs. Cloud Computing).
 * 📐 **[Diseño Arquitectónico](ruta/a/tu/arquitectura.pdf)**: Modelado del sistema siguiendo las Vistas 4+1 y Registro de Decisiones de Arquitectura (ADRs).
 
